@@ -10,7 +10,7 @@ As tecnologias, ferramentas e conceitos apresentados nesta seção foram desenvo
 
 **Backend:** Laravel
 
-**Front-end:** HTML5 · CSS3 · JavaScript · Bootstrap
+**Front-end:** HTML · CSS · JavaScript · Bootstrap
 
 **Banco de Dados:** MySQL · MariaDB · PostgreSQL
 
