@@ -4,16 +4,34 @@ Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** (U
 
 ## Stack técnica
 
-**Backend:** PHP · Laravel · Python
-**Frontend:** JavaScript · HTML5 · CSS3 · Bootstrap
-**Banco de Dados:** MySQL
+**Linguagens:** PHP · Python · Java · C · JavaScript
+
+**Backend:** Laravel
+
+**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap
+
+**Banco de Dados:** MySQL · MariaDB · PostgreSQL
+
+**Estruturas de Dados:** Pilhas · Filas · Árvores · Tabelas Hash · Grafos
+
+**Conceitos e metodologias:**
+- Programação Orientada a Objetos (POO)
+- Arquitetura MVC
+- Modelagem de banco de dados (DER)
+- Levantamento de requisitos e casos de uso
+- Regras de negócio
+- Engenharia de Software
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
