@@ -1,41 +1,22 @@
 # Diego dos Santos Lopes
 
-Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** pela **UFPA**(2024-2028) e **Licenciatura em Matemática** **UNAMA** (2023-2026). Interesse em desenvolvimento web, arquitetura de software e análise de dados, com experiência prática em projetos individuais e em equipe.
+Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** pela **UFPA** (2024–2028) e **Licenciatura em Matemática** pela **UNAMA** (2023–2026). Interesse em desenvolvimento web, arquitetura de software e análise de dados, com experiência prática em projetos individuais e em equipe.
 
 ## Competências Técnicas
 
-As tecnologias, ferramentas e conceitos apresentados nesta seção foram aprendidos ao longo da graduação, com destaque para as disciplinas de Programação Web, Banco de Dados e Engenharia de Software, e consolidados por meio da aplicação em projetos acadêmicos e pessoais.
+As tecnologias, ferramentas e conceitos apresentados nesta seção foram desenvolvidos ao longo da graduação, com destaque para as disciplinas de Programação Web, Banco de Dados e Engenharia de Software, e consolidados por meio da aplicação em projetos acadêmicos e pessoais.
 
-### Linguagens
-- PHP
-- Java
-- JavaScript
-- Python
-- C
+**Linguagens:** PHP · Java · JavaScript · Python · C
 
-### Backend
-- Laravel
-- Node.js
-- Express.js
-- API REST
+**Backend:** Laravel
 
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+**Front-end:** HTML5 · CSS3 · JavaScript · Bootstrap
 
-### Banco de Dados
-- MySQL
-- MariaDB
-- PostgreSQL
+**Banco de Dados:** MySQL · MariaDB · PostgreSQL
 
-### Estruturas de Dados
-- Pilhas
-- Filas
-- Listas
-- Árvores
-- Grafos
+**Estruturas de Dados:** Pilhas · Filas · Listas · Árvores · Hash · Grafos
+
+**Ferramentas:** Git · GitHub · Composer · Node.js/npm
 
 ### Conceitos e Metodologias
 - Programação Orientada a Objetos (POO)
