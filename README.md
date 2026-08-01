@@ -1,6 +1,6 @@
 # Diego dos Santos Lopes
 
-Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** (UFPA — 5º período) e **Licenciatura em Matemática** (UNAMA — 8º período). Interesse em desenvolvimento web, arquitetura de software e análise de dados, com experiência prática em projetos individuais e em equipe.
+Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** pela **UFPA**(2024-2028) e **Licenciatura em Matemática** **UNAMA** (2023-2026). Interesse em desenvolvimento web, arquitetura de software e análise de dados, com experiência prática em projetos individuais e em equipe.
 
 ## Competências Técnicas
 
