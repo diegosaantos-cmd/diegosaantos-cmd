@@ -1,26 +1,51 @@
 # Diego dos Santos Lopes
 
-Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** (UFPA — 5º período) e **Licenciatura em Matemática** (UFPA — 8º período). Interesse em desenvolvimento web, arquitetura de software e análise de dados, com experiência prática em projetos individuais e em equipe.
+Desenvolvedor Full Stack em formação, cursando **Sistemas de Informação** (UFPA — 5º período) e **Licenciatura em Matemática** (UNAMA — 8º período). Interesse em desenvolvimento web, arquitetura de software e análise de dados, com experiência prática em projetos individuais e em equipe.
 
-## Stack técnica
+## Competências Técnicas
 
-**Linguagens:** PHP · Python · Java · C · JavaScript
+As tecnologias, ferramentas e conceitos apresentados nesta seção foram aprendidos ao longo da graduação, com destaque para as disciplinas de Programação Web, Banco de Dados e Engenharia de Software, e consolidados por meio da aplicação em projetos acadêmicos e pessoais.
 
-**Backend:** Laravel
+### Linguagens
+- PHP
+- Java
+- JavaScript
+- Python
+- C
 
-**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap
+### Backend
+- Laravel
+- Node.js
+- Express.js
+- API REST
 
-**Banco de Dados:** MySQL · MariaDB · PostgreSQL
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
 
-**Estruturas de Dados:** Pilhas · Filas · Árvores · Tabelas Hash · Grafos
+### Banco de Dados
+- MySQL
+- MariaDB
+- PostgreSQL
 
-**Conceitos e metodologias:**
+### Estruturas de Dados
+- Pilhas
+- Filas
+- Listas
+- Árvores
+- Grafos
+
+### Conceitos e Metodologias
 - Programação Orientada a Objetos (POO)
 - Arquitetura MVC
-- Modelagem de banco de dados (DER)
-- Levantamento de requisitos e casos de uso
-- Regras de negócio
-- Engenharia de Software
+- Modelagem de Banco de Dados (DER)
+- Levantamento de Requisitos
+- Casos de Uso
+- Regras de Negócio
+- Git e GitHub
+- Metodologias Ágeis (Scrum)
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
