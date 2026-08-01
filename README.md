@@ -20,11 +20,9 @@ As tecnologias, ferramentas e conceitos apresentados nesta seção foram desenvo
 
 ### Conceitos e Metodologias
 - Programação Orientada a Objetos (POO)
-- Arquitetura MVC
-- Modelagem de Banco de Dados (DER)
-- Levantamento de Requisitos
-- Casos de Uso
-- Regras de Negócio
+- Arquitetura MVC 
+- Banco de Dados 
+- Engenharia de Software (Levantamento de Requisitos, Modelagem de Banco de Dados (DER), Casos de Uso, Regras de Negócio)
 - Git e GitHub
 - Metodologias Ágeis (Scrum)
 
